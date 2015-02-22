@@ -8,6 +8,3 @@ resources :products
 
 end 
 
-
-
-end
